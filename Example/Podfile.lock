@@ -1,0 +1,16 @@
+PODS:
+  - iApp (0.1.0)
+
+DEPENDENCIES:
+  - iApp (from `../`)
+
+EXTERNAL SOURCES:
+  iApp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iApp: b485c997367fa2edcbf33cc818bf2b64e851a8e3
+
+PODFILE CHECKSUM: 38014da518d7d60fcb167be98fe0770abae04bcc
+
+COCOAPODS: 1.5.0

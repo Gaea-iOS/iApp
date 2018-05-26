@@ -1,0 +1,6 @@
+framework module iApp {
+  umbrella header "iApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
